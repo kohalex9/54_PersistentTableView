@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FootballTeam" representedClassName="FootballTeam" syncable="YES" codeGenerationType="class">
+        <attribute name="goalKeeper" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="homeStadium" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="logoImageName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="manager" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="primaryLeague" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="team" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="yearFounded" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="FootballTeam" positionX="-45" positionY="0" width="128" height="150"/>
+    </elements>
+</model>
